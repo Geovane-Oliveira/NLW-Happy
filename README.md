@@ -9,9 +9,9 @@ O Happy é uma plataforma quee tem como objetivo, facilitar a visita de voluntá
 
 ## Tecnologias utilizadas
 
+- [NodeJS](https://nodejs.org/en/)
+- [ReactJS](https://reactjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
-- [React](https://reactjs.org/)
-- [Node](https://nodejs.org/en/)
 - [Leaflet](https://leafletjs.com/)
 - [Mapbox](https://www.mapbox.com/)
 
