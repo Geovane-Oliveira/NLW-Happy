@@ -21,11 +21,11 @@ O Happy é uma plataforma quee tem como objetivo, facilitar a visita de voluntá
 
 - Use o yarn ou npm
 
-### Web
+### Frontend Web
 
 ```bash
 # Entre na pasta web
-$ cd proffy/web
+$ cd happy/web
 
 # Instale as dependências
 $ yarn install
