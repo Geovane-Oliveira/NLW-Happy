@@ -1,4 +1,4 @@
-<div align="center" ><img src="./front-end/src/images/map-marker.svg" alt="logo" /></div>
+<div align="center" ><img src="./frontend/src/images/map-marker.svg" alt="logo" /></div>
 <h1 align="center"> Happy </h1>
 <br>
 
@@ -8,8 +8,8 @@ O Happy é uma plataforma quee tem como objetivo, facilitar a visita de voluntá
 
 <br>
 <h3 align="center">Preview</h3>
-<img src="./front-end/src/images/git-preview-landing-1.png">
-<img src="./front-end/src/images/git-preview-map-2.png">
+<img src="./frontend/src/images/git-preview-landing-1.png">
+<img src="./frontend/src/images/git-preview-map-2.png">
 <br>
 ## Tecnologias utilizadas
 
