@@ -63,4 +63,44 @@ $ yarn install
 $ yarn start
 ```
 
+### Aplicativo mobile
+
+## Como executar o aplicativo.
+
+<h2>Para execução no Windows</h2>
 <br>
+- Para executar o aplicativo mobile é necessário ter o emulador de Android do[Android Studio](https://developer.android.com/studio) .
+- [Expo Cli](https://expo.io/)
+<br>
+<h2> Para execução no MacOS </h2>
+<br>
+- Utilize o emulador do IOS no Mac.
+- [Expo Cli](https://expo.io/)
+<br>
+<h>Para execução no dispositivo mobile físico</h2>
+<br>
+- Baixe o Expo Client na[Google Play Store](https://play.google.com/store/apps/details?id=host.exp.exponent&referrer=www) ou[App Store](https://apps.apple.com/app/apple-store/id982107779)
+<br>
+
+```bash
+# Abra o terminal e instale o Expo CLI de forma global
+$ npm install --global expo-cli
+
+# Clone o repositório ou faça o download do arquivo .zip
+$ git clone https://github.com/Geovane-Oliveira/NLW3-Happy.git
+
+# Entre na pasta do frontend (Pelo terminal ou manualmente)
+$ cd NLW3/mobile
+
+# Instale as dependências - Dentro da pasta do frontend, execute
+$ yarn install
+
+# Inicie a aplicação
+$ yarn start
+```
+### Adicionando orfanato
+- Entre na tela do mapa
+- Clique no botão "+"
+- Clique em um ponto do mini mapa (Abaixo de Dados) para adicionar um endereço
+![Add Orphanage](./frontend/src/images/insert-map-address.gif)
+- Preencha o formulário
