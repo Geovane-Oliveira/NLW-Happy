@@ -46,7 +46,6 @@ $ yarn install
 $ yarn dev
 ```
 
-<br>
 
 ### Frontend Web
 
