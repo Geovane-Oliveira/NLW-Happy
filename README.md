@@ -66,19 +66,18 @@ $ yarn start
 ### Aplicativo mobile
 
 <h3>Para execução no Windows</h3>
-<br>
-- Para executar o aplicativo mobile é necessário ter o emulador de Android do Android Studio.
-- Expo Cli
-<br>
+
+- Para executar o aplicativo mobile é necessário ter o emulador de Android do Android Studio.<br>
+- Expo Cli<br>
+
 <h3> Para execução no MacOS </h3>
-<br>
-- Utilize o emulador do IOS no Mac.
-- Expo Cli
-<br>
+
+- Utilize o emulador do IOS no Mac.<br>
+- Expo Cli<br>
+
 <h3>Para execução no dispositivo mobile físico</h3>
-<br>
-- Baixe o Expo Client naGoogle Play Store ou App Store
-<br>
+
+- Baixe o Expo Client naGoogle Play Store ou App Store<br>
 
 ```bash
 # Abra o terminal e instale o Expo CLI de forma global
