@@ -75,9 +75,6 @@ $ yarn start
 - Utilize o emulador do IOS no Mac.<br>
 - Expo Cli<br>
 
-<h3>Para execução no dispositivo mobile físico</h3>
-
-- Baixe o Expo Client na Google Play Store ou App Store<br>
 
 ```bash
 # Abra o terminal e instale o Expo CLI de forma global
@@ -95,6 +92,12 @@ $ yarn install
 # Inicie a aplicação
 $ yarn start
 ```
+
+<h3>Para execução no dispositivo mobile físico</h3>
+
+- Baixe o Expo Client na Google Play Store ou App Store<br>
+- Inicie o backend antes de executar o mobile<br>
+
 ### Adicionando orfanato
 - Entre na tela do mapa
 - Clique no botão "+"
