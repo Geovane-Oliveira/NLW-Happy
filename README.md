@@ -77,7 +77,7 @@ $ yarn start
 
 <h3>Para execução no dispositivo mobile físico</h3>
 
-- Baixe o Expo Client naGoogle Play Store ou App Store<br>
+- Baixe o Expo Client na Google Play Store ou App Store<br>
 
 ```bash
 # Abra o terminal e instale o Expo CLI de forma global
