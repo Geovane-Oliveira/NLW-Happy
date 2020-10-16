@@ -1,6 +1,6 @@
 node_modules
 yarn.lock
-database.sqlite
+src/database/database.sqlite
 .env
 dist
 
